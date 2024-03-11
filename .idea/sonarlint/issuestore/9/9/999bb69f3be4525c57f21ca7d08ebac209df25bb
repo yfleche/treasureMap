@@ -1,0 +1,14 @@
+
+u
+java:S3008"XRename this field "PATH_TO_FILES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ַ…¶8¼ֳחדג1
+G	java:S106"+Replace this use of System.out by a logger.(¥₪Ê›8ְֳחדג1
+G	java:S106"+Replace this use of System.out by a logger.(Üעֹ8ֱֳחדג1
+L	java:S106$"+Replace this use of System.out by a logger.(£ ױה‎ÿÿÿÿ8ֲֳחדג1
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€י²ֵ8ֲֳחדג1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†׀¥ֵ8ֲֳחדג1
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(דˆ־ֹ8ֲֳחדג1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ׂÜֵ¸תÿÿÿÿ8ֲֳחדג1
